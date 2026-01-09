@@ -1,4 +1,4 @@
-# Hii 👋 i am vijay yadav🙏
+# Hii 👋 i am vijay yadav
 
 <!--
 yadavvijay202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
